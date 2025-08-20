@@ -11,13 +11,31 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+'jogos',
+'Qual jogo popularmente conhecido no Brasil como "jogo da cobrinha"?',
+'Snake!'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+'jogos',
+'Qual o nome do famoso mascote azul da SEGA?',
+'Sonic!'
+)
+
+criaCartao(
+'jogos',
+'Qual o nome do protagonista de The Legend of Zelda?',
+'Link!'
+)
+
+criaCartao(
+'jogos',
+'Qual a produtora do famoso jogo Red Dead Redemption 2?',
+'Rockstar Games!'
+)
+
+criaCartao(
+'jogos',
+'Em que ano foi lançado o primeiro Grand Theft Auto?',
+'Em 1997!'
 )

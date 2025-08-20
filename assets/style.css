@@ -54,7 +54,7 @@ body {
 
 .cartao__conteudo__resposta p {
     color: var(--card-back-color);
-    font-weight: 1300;
+    font-weight: 1500;
 }
 
 .cartao:hover .cartao__conteudo {
